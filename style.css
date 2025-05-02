@@ -31,7 +31,7 @@ body {
   align-items: center;
 }
 .front {
-  background: #ffcc00;
+  background-image: url('wecard-birthday.png');
   background-size: cover;
   background-position: center;
 }
